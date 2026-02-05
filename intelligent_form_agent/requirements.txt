@@ -1,0 +1,10 @@
+opencv-python
+pytesseract
+pdfplumber
+PyMuPDF
+scikit-learn
+pandas
+numpy
+streamlit
+reportlab
+
